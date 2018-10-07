@@ -1,4 +1,5 @@
 # Safeguard
+Design Document: https://docs.google.com/document/d/10jtAlhoJLU_Mr-GSfiQ4CmBl5haUXxVf7bTOlKZ3cNo/edit?usp=sharing
 
 NOTE: Please unzip Safeguard(win)_Data.zip and place the contents in the same folder as Safeguard(win).exe and UnityPlayer.dll. 
 Then simply run the exe in order to play the game.
