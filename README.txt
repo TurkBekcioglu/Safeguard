@@ -11,3 +11,5 @@ Assisted with many other parts of the game such as turn based logic, pollution s
  
 
 My main responsibilities focused on implementing the actions available to the player, but I was also involved in most of the other programming roles due to the small size of our team.
+
+NOTE: In order to play the demo version, unzip the zip file and place it's contents within the same folder as the Safeguard.exe file.
